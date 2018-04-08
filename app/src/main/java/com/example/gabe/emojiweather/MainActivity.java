@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity
     class WeatherConnect extends AsyncTask<Void, Void, JSONObject>
     {
         //URL string is combined with the zipcode user input and the API key
-        private String api_URL = ("https://api.wunderground.com/api/" + "48a6ddb9b2e805f6" + "/conditions/q/" + zipcode + ".json");
+        private String api_URL = ("https://api.wunderground.com/api/" + "key goes here" + "/conditions/q/" + zipcode + ".json");
 
         //Establishes connection to the API via the network connection class and URL string
         @Override
@@ -241,7 +241,7 @@ public class MainActivity extends AppCompatActivity
         //API URL for calling data from Detroit
         //https://www.mapquestapi.com/traffic/v2/incidents?&outFormat=json&boundingBox=42.43232607079181%2C-82.8324508666992%2C42.23334735634176%2C-83.26332092285156&filters=construction%2Cincidents&key=
 
-        String api_KEY2 = "hH7c33NIQMCZEDqBA9DSDobxcnjprlu4";
+        String api_KEY2 = "key goes here";
         private String api_URL2 = ("https://www.mapquestapi.com/traffic/v2/incidents?&outFormat=json&boundingBox=42.740708808266845%2C-83.06625366210936%2C42.53689200787315%2C-83.51909637451172&filters=construction%2Cincidents&key=" + api_KEY2);
 
         @Override
