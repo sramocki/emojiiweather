@@ -2,9 +2,9 @@
 Oakland University Sophmore Project Class Winter 2017
 
 Created by:
-Sean Ramocki
-Eric Ramocki
-Gabriel Thomas
+* Sean Ramocki
+* Eric Ramocki
+* Gabriel Thomas
 
 Emoji Weather Android App:
 Emoji Weather Screnshots
