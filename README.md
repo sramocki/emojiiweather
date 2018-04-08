@@ -1,7 +1,7 @@
 # EmojiWeather
 Oakland University Sophmore Project Class Winter 2017
 
-Android application that pulls weather and traffic data from free API
+Android application that pulls weather and traffic data from API
 
 Created by:
 * Sean Ramocki
